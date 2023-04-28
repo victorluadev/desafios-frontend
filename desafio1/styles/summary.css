@@ -1,0 +1,19 @@
+.summary {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  padding: 2em;
+  gap: 1em;
+}
+
+.summary h2 {
+  font-weight: 600;
+  margin-bottom: 1em;
+  color: var(--dark-gray-blue);
+}
+
+.summary__items {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
