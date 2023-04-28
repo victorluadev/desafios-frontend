@@ -1,0 +1,13 @@
+.button__score {
+  border: none;
+  border-radius: 30px;
+  padding: 1em;
+  font-size: 1em;
+  font-weight: 600;
+  color: var(--pale-blue);
+  background-color: var(--dark-gray-blue);
+}
+
+.button__score:hover {
+  background: linear-gradient(var(--light-slate-blue), var(--light-royal-blue));
+}

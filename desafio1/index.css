@@ -1,6 +1,7 @@
 @import url(./styles/container.css);
 @import url(./styles/results.css);
 @import url(./styles/summary.css);
+@import url(./styles/button.css);
 @import url(./styles/item.css);
 
 @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap');
@@ -27,7 +28,7 @@
   --light-lavender: hsl(241, 100%, 89%);
   --dark-gray-blue: hsl(224, 30%, 27%);
 
-  --font-default: 'Hanken Grotesk'
+  --font-default: 'Hanken Grotesk';
 }
 
 body {
